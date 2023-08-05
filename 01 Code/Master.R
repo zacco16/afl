@@ -1,3 +1,2 @@
-setwd("/Users/isaack/OneDrive - Quantium/01 Work/Tech/AFL")
-# getwd()
-
+setwd("~/Tech/afl/01 Code")
+source("libraries.R")
